@@ -1,6 +1,6 @@
-projectKey=mobileFlutter
+projectKey=flutter_sample
 serverUrl=http://localhost:9000
 serverVersion=8.8.0.42792
-dashboardUrl=http://localhost:9000/dashboard?id=mobileFlutter
-ceTaskId=AXkPn_zlVpU6870zTgDc
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AXkPn_zlVpU6870zTgDc
+dashboardUrl=http://localhost:9000/dashboard?id=flutter_sample
+ceTaskId=AXkP39HMVpU6870zTgEX
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXkP39HMVpU6870zTgEX

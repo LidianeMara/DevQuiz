@@ -42,12 +42,12 @@ class QuizCardWidget extends StatelessWidget {
                 width: 40,
                 height: 40,
               ),
-              SizedBox(height: 20),
+              SizedBox(height: 10),
               Text(
                 title,
                 style: AppTextStyles.heading15,
               ),
-              SizedBox(height: 20),
+              SizedBox(height: 10),
               Row(
                 children: [
                   Expanded(
